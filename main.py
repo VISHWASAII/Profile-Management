@@ -1,5 +1,0 @@
-print("Hello world")
-print("Hello vishwa")
-print("vanakam")
-print("vanakam")
-print("Hello vishwa")
